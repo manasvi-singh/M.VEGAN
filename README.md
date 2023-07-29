@@ -4,6 +4,3 @@ Welcome to the M.VEGAN cafe project! This project uses HTML CSS and JavaScript a
 
 ## Contributing
 To contribute to the repository, open an issue or a pull request.
-
-## License
-The  Rock-Climber-Health-and-GPS-Tracker project is licensed under the MIT License. Feel free to modify and distribute the project as per the terms of the license.
